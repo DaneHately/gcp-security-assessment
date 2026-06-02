@@ -43,6 +43,10 @@ A 48-hour security posture review that finds the misconfigurations standard engi
 **Checks executed:** 103  
 **Initial pass rate:** 33.33% (15 passed / 30 failed)
 
+![Prowler Before Scan — 33% pass rate, 30 failures](assets/prowler_before_redacted.png)
+
+**Date:** 2026-06-02
+
 ### Findings by Service
 
 | Service | Result | Critical | High | Medium | Low |
@@ -103,6 +107,10 @@ Enabled project-level Data Access audit logs for Cloud Storage, capturing `ADMIN
 **Date:** 2026-06-02  
 **Checks executed:** 103  
 **Pass rate:** 63.93% (39 passed / 22 failed)
+
+![Prowler After Scan — 64% pass rate, 22 failures](assets/prowler_after_redacted.png)
+
+**Date:** 2026-06-02
 
 ### Findings by Service
 
